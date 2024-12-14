@@ -36,10 +36,6 @@
 
 <br>
 
-[![FORK CHAMILX-MD](https://i.imgur.com/9v8VueT.jpeg/FORK%20-chamiLX-MD-white)](https://github.com/chamiLX-MD/chami-md/fork)
-
- ---
- 
 <a href="https://chami-md-terms-and-rules.vercel.app/"><img src="https://img.shields.io/badge/Read%20Our%20Terms%20and%20Conditions-red" alt="DEPLOY" width="270"></a>
 
 ---
