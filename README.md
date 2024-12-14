@@ -36,7 +36,7 @@
 
 <br>
 
-[![FORK CHAMILX-MD](https://i.imgur.com/9v8VueT.jpeg/badge/FORK%20-chamiLX-MD-white)](https://github.com/chamiLX-MD/chami-md/fork)
+[![FORK CHAMILX-MD](https://i.imgur.com/9v8VueT.jpeg/FORK%20-chamiLX-MD-white)](https://github.com/chamiLX-MD/chami-md/fork)
 
  ---
  
