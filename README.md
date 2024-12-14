@@ -36,7 +36,7 @@
 
 <br>
 
-[![FORK CHAMILX-MD](https://img.shields.io/badge/FORK%20-chamiLX-MD-white)](https://github.com/chamiLX-MD/chami-md/fork)
+[![FORK CHAMILX-MD](https://i.imgur.com/9v8VueT.jpeg/badge/FORK%20-chamiLX-MD-white)](https://github.com/chamiLX-MD/chami-md/fork)
 
  ---
  
@@ -47,7 +47,7 @@
 ## 🍁 *`CHAMILX-MD BOT OWNER,`* 🍁  
 
 
-   <a href="https://github.com/chamiLX/"><img src="https://avatars.githubusercontent.com/u/106251140?v=4" width=80 height=80></a>   
+   <a href="https://github.com/chamiLX/"><img src="https://i.ibb.co/bKBDBcj/f69aa43a2d63b952.jpg/u/106251140?v=4" width=80 height=80></a>   
 
 ---
 
