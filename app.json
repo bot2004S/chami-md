@@ -1,0 +1,41 @@
+{
+  "name": "CHAMILX-MD (1.0.0)",
+  "description": "CHAMILX-MD has been designed to make things easier and fun while using WhatsApp. ❤️",
+  "logo": "https://i.ibb.co/bKBDBcj/f69aa43a2d63b952.jpg",
+  "keywords": ["nodejs", "bot", "whatsapp bot", "multi device", "chami-md"],
+  "success_url": "/",
+
+  "env": {
+    "BOT_NUMBER": {
+      "description": "Put the number here.",
+      "required": true
+    },  
+
+    "SESSION_ID": {
+      "description": "Put the session-id here.",
+      "required": false
+    },  
+
+ },
+        "MODE": {
+            "description": "Private or public",
+            "required": true,
+            "value":"private"
+    
+    
+
+    "GITHUB_AUTH_TOKEN": {
+      "description": "Put your github authtoken here.",
+      "required": true
+    }   
+},
+
+     "buildpacks": [
+        {
+            "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+        }
+     ],
+  "stack": "heroku-24"
+  
+  
+}
